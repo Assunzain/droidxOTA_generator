@@ -3,11 +3,11 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)"
-oem="xiaomi"
-device="lancelot" 
-devicename="Redmi 9" 
-zip="droidx-2.0-20240225-1116-OFFICIAL-lancelot-Gapps.zip"
+maintainer="AssunZain"
+oem="asus"
+device="X01AD" 
+devicename="Asus Zenfone Max M2" 
+zip="droidx-2.0-20240219-0945-OFFICIAL-X01AD-Vanilla.zip"
 forum=""
 gapps=""
 recovery=""
